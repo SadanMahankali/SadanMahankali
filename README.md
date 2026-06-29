@@ -1,11 +1,12 @@
 ## Hi, I'm Sadan! 👋
 🔭 Currently co-founding **MacroRanked** — a gamified AI fitness app (React Native, FastAPI, Supabase) targeting App Store launch Sept/Oct 2026<br>
+🫀 Doing **cardiac electrophysiology ML research** at Warwick Medical School — classifying optical mapping waveforms to distinguish healthy vs diseased heart signals<br>
 🧠 Building **Atlas** — a personal AI operating system with multiple Echo personalities (Llama 3.1, LlamaIndex, ChromaDB)<br>
 📄 Writing a research paper on a custom food recognition AI model (ResNet-50 ablation study on Food-101)<br>
-🎓 BSc Health & Medical Sciences @ University of Warwick — exploring medical AI and cardiac electrophysiology research<br>
-🌱 Currently learning: Python (deepening), Andrew Ng ML Specialization, C++ (later this summer)<br>
-💡 Interests: medical AI, ML research, full-stack development, building things from scratch
-
+⚽ Built a **live World Cup 2026 ML match predictor** — predicting knockout stage outcomes in real time<br>
+🎓 BSc Health & Medical Sciences @ University of Warwick<br>
+🌱 Currently learning: Python, Andrew Ng ML Specialization<br>
+💡 Interests: medical AI, cardiac EP, ML research, full-stack development
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadan_m77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sadan-Mahankali) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@routineclient) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/RoutineClient) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RoutineClient) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadanmahankali@gmail.com) 
